@@ -1,22 +1,14 @@
-# ??: SOLUÇÕES INTELIGENTES PARA MERCADO DE CAPITAIS
+# QUANTFY: A QUANTITATIVE SOLUTIONS COMPANY
 
-Soluções em dados e inteligência artificial.
+Leveraging data to deliver quantitative solutions for modern investors.
 
-## SOBRE NÓS
+## ABOUT US
 
-## SERVIÇOS E PRODUTOS
-
----
-
-CONTACT
-Email: ?@?
-LinkedIn: https://www.linkedin.com/company/?/
-Instagram: https://www.instagram.com/?/
+We are a start-up focused on innovative solutions for financial markets. We are engaged in creating the best data-driven solutions for modern investors.
 
 ---
 
-© 2024, ?: Soluções em Dados e Inteligência Aritificial. ® All rights reserved.
+## CONTACT
+- Follow us at [LinkedIn](https://www.linkedin.com/company/quantfy-investments).
 
-
-
-© 2023, C
+© 2024, Quantfy: Quantitative Solutions for Modern Investors. ® All rights reserved.
