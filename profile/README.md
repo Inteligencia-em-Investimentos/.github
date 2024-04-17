@@ -1,6 +1,6 @@
 # QUANTFY: QUANTITATIVE SOLUTIONS
 
-![Quantfy ><](../statics/quantfy-icon.png)
+![Quantfy ><](https://github.com/quant-fy/.github/blob/main/statics/quantfy-icon.png)
 
 **Leveraging data to deliver quantitative solutions for modern investors.**
 
