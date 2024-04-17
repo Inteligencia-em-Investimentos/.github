@@ -53,9 +53,9 @@
 </h2>
 
 <ul align="center">
-    Follow us at <a href="https://www.linkedin.com/company/quantfy-investments">LinkedIn</a>
+  Follow us at <a href="https://www.linkedin.com/company/quantfy-investments">LinkedIn</a>
 </ul>
 
-<footer align="center">
-  © 2024, Quantfy: Quantitative Solutions for Modern Investors. ® All rights reserved.
-</footer>
+<p align="center">
+  © 2024 Quantfy: Quantitative Solutions for Modern Investors.
+</p>

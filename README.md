@@ -10,6 +10,6 @@
   <b>Leveraging data to deliver quantitative solutions for modern investors</b>
 </p>
 
-<footer align="center">
-  © 2024, Quantfy: Quantitative Solutions for Modern Investors. ® All rights reserved.
-</footer>
+<p align="center">
+  © 2024 Quantfy: Quantitative Solutions for Modern Investors.
+</p>
