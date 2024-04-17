@@ -1,7 +1,15 @@
-# QUANTFY: A QUANTITATIVE COMPANY
+<h1 align="center">
+  <b>QUANTFY: A QUANTITATIVE COMPANY</b>
+</h1>
 
-![Quantfy ><](https://github.com/quant-fy/.github/blob/main/statics/quantfy-icon.png)
+<p align="center">
+  <img src="https://github.com/quant-fy/.github/blob/main/statics/quantfy-icon.png" alt="quantfy-icon">
+</p>
 
-**Leveraging data to deliver quantitative solutions for modern investors.**
+<p align="center">
+  <b>Leveraging data to deliver quantitative solutions for modern investors</b>
+</p>
 
-© 2024, Quantfy: Quantitative Solutions for Modern Investors. ® All rights reserved.
+<footer align="center">
+  © 2024, Quantfy: Quantitative Solutions for Modern Investors. ® All rights reserved.
+</footer>
